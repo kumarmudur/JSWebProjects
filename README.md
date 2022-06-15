@@ -1,2 +1,2 @@
 # JSWebProjects
-vanilla Javascript Projects
+Vanilla Javascript Projects
